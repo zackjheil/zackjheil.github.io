@@ -1,20 +1,26 @@
 body {
     background-color: rgb(255,255,255);
     animation-name: colorchange;
-    animation-duration: 120s;
+    animation-duration: 600s;
     animation-delay: 0s;
     animation-iteration-count: infinite;
 }
     @keyframes colorchange{
-        0%{background-color: #f4e749;}
-        10%{background-color: #60bbf4;}
-        20%{background-color: aqua;}
-        30%{background-color: #7d42dd;}
-        40%{background-color: #e5903a;}
-        50%{background-color: #a58828;}
-        60%{background-color: #bc3bbc;}
-        70%{background-color: #164a16;}
-        80%{background-color: #d94646;}
-        90%{background-color: #b96c52;}
-        100%{background-color: #bcef32;}
+        0%{background-color: #56f5c0;}
+        10%{background-color: #69e060;}
+        20%{background-color: #60e0be;}
+        30%{background-color: #60b7e0;}
+        40%{background-color: #6095e0;}
+        50%{background-color: #6460e0;}
+        60%{background-color: #a460e0;}
+        70%{background-color: #726e75;}
+        80%{background-color: #504e52;}
+        90%{background-color: #2d2c2e;}
+        100%{background-color: #121112;}
+}
+
+
+#ParaBoi{
+  font-size: 12px;
+  font-style: normal;
 }
