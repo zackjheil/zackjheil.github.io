@@ -2,7 +2,7 @@ body {
     background-color: rgb(255,255,255);
     animation-name: colorchange;
     animation-duration: 11s;
-    animation-delay: 30s;
+    animation-delay: 5s;
     animation-iteration-count: infinite;
 }
     @keyframes colorchange{
