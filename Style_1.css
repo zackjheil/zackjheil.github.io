@@ -1,13 +1,13 @@
 body {
     background-color: rgb(255,255,255);
     animation-name: colorchange;
-    animation-duration: 11s;
-    animation-delay: 5s;
+    animation-duration: 10s;
+    animation-delay: 10s;
     animation-iteration-count: infinite;
 }
     @keyframes colorchange{
         0%{background-color: #f4e749;}
-        10%{background-color: #42b1c7;}
+        10%{background-color: #60bbf4;}
         20%{background-color: aqua;}
         30%{background-color: #7d42dd;}
         40%{background-color: #e5903a;}
