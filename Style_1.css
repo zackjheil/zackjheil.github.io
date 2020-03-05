@@ -1,8 +1,8 @@
 body {
     background-color: rgb(255,255,255);
     animation-name: colorchange;
-    animation-duration: 10s;
-    animation-delay: 10s;
+    animation-duration: 120s;
+    animation-delay: 0s;
     animation-iteration-count: infinite;
 }
     @keyframes colorchange{
