@@ -7,7 +7,7 @@ body {
 }
     @keyframes colorchange{
         0%{background-color: #f4e749;}
-        10%{background-color: #60bbf4;}
+        10%{background-color: #42b1c7;}
         20%{background-color: aqua;}
         30%{background-color: #7d42dd;}
         40%{background-color: #e5903a;}
