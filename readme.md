@@ -4,10 +4,9 @@
 
 I am an Assistant Professor of Digital Prototyping at Brock University's Centre for Digital Humanities. This is my awesome portfolio site.
 
-![](imagez/manatees.jpg)
 
 ## Blog post
 
-First sentence of blog post goes here... [continue reading](blog)
+First sentence of blog post goes here... [continue reading](index.html)
 
 I MADE A CHANGE. CHECK IT OUT.
