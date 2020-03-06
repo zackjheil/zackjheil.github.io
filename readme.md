@@ -7,6 +7,6 @@ I am an Assistant Professor of Digital Prototyping at Brock University's Centre 
 
 ## Blog post
 
-First sentence of blog post goes here... [continue reading](index.html)
+First sentence of blog post goes here... [continue reading](https://zackjheil.github.io/)
 
 I MADE A CHANGE. CHECK IT OUT.
