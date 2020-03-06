@@ -1,7 +1,7 @@
 body {
     background-color: rgb(255,255,255);
     animation-name: colorchange;
-    animation-duration: 600s;
+    animation-duration: 200s;
     animation-delay: 0s;
     animation-iteration-count: infinite;
 }
@@ -21,6 +21,6 @@ body {
 
 
 #ParaBoi{
-  font-size: 12px;
+  font-size: 14px;
   font-style: normal;
 }
