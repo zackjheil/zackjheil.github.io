@@ -6,5 +6,5 @@ I am a Third Year Interactive Arts and Science Student. I am passionate about he
 
 ## Blog post
 
-First sentence of blog post goes here... [continue reading](index.html)
+Data and datasets cannot and should not be considered unchanging and unquestionable...[continue reading](blog.html)
 If you question everything, or want to get into the habit of questioning information take a look at my blog post.
